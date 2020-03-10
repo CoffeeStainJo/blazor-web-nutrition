@@ -1,0 +1,16 @@
+{
+  "name": "WebNutrition",
+  "short_name": "WebNutrition",
+  "theme_color": "#145180",
+  "background_color": "#145180",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/web-nutrition/",
+  "icons": [
+    {
+      "src": "images/icons/icon_512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
